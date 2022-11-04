@@ -1,4 +1,5 @@
-Ini adalah aplikasi MVC pertama saya.
+# Ini adalah aplikasi MVC pertama saya.
 
-Instagram : @hamzanwahyu.id
-Github : github.com/titik-koma
+## Contact Me
+- Instagram : @hamzanwahyu.id
+- Whatsapp : https://wa.me/6285237082602/
